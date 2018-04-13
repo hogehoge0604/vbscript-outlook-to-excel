@@ -1,7 +1,7 @@
 # VBscript Outlook to Excel
 
 ## インストール
-outlook-to-excel.vbsをダウンロードする
+outlook-to-excel.vbsをダウンロードする  
 https://github.com/hogehoge0604/vbscript-outlook-to-excel/archive/master.zip
 
 ## 使い方
