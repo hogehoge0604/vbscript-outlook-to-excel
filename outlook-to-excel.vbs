@@ -128,7 +128,7 @@ End Function
 '
 ' @params string body メール本文
 ' @params Scripting.Dictionary config 設定値
-' @return Scripting.Dictionary 抽出結果のハッシュ値
+' @return Scripting.Dictionary 抽出結果の連想配列(セル => 抽出した文字列)
 '
 Function contents(body, config)
     Set contents = CreateObject("Scripting.Dictionary")
